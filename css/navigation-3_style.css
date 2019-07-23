@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: 0px auto;padding: 0px;}
+#box{width: 980px;}
+#logo{width: 600px;}
+nav{width: 600px;height: 43px;background-image: url(../imge/navigation/bg3_btn.jpg);background-repeat: repeat-x;background-position:center 0px;}
+nav ul li{list-style: none;float: left;line-height: 43px;text-align: center;}
+nav ul li a{text-decoration: none;display: block;width: 90px;height: 43px;color: #fff;}
+.nav_5{width: 7px;height: 43px;float: left;background-image: url(../imge/navigation/bg3_left_right.jpg);background-repeat: no-repeat;background-position: center 0px;}
+.nav_6{width: 7px;height: 43px;float: left;background-image: url(../imge/navigation/bg3_left_right.jpg);background-repeat: no-repeat;background-position: center -43px;margin-left: 136px;}
+nav ul li a:hover{background-image: url(../imge/navigation/bg3_btn.jpg);background-repeat: repeat-x;background-position: center -43px;color: #666;height: 44px;}

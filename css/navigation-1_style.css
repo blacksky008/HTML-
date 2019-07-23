@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: 0px auto;padding: 0px;font-size: 15px;font-weight: bold;}
+#logo{background-image: url(../imge/logo/logo1.jpg);background-repeat: no-repeat;border: 2px solid #000px;width: 500px;height: 69px;}
+nav{width: 500px;height: 41px;}
+nav ul{}
+nav ul li{float: left;list-style: none;width: 70px;background-color: #efefef;height: 38px;text-align: center;line-height: 38px;}
+.nav_6{width: 150px;border-bottom: 2px solid #ddd;}
+nav ul li a{text-decoration: none;display: block;color: #777;border-bottom: 3px solid #ddd;}
+nav ul li a:hover{background-color: #666;border-bottom: 3px solid #333;color: #fff;}
